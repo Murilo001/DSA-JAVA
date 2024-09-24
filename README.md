@@ -28,7 +28,7 @@ This project is built with:
 
 ## Project Structure
 
-\`\`\`bash
+```bash
 dsa-java/
 │   │
 │   │
@@ -36,40 +36,40 @@ dsa-java/
 │   └── algorithms / 
 │        ├── 00. Name                       # LeetCode problem number and title.
 └── README.md                               # This README file
-\`\`\`
+```
 
 ## Implemented Data Structures
 
 - Arrays
-TODO - Linked Lists (Singly, Doubly)
-TODO - Stacks
-TODO - Queues
-TODO - Trees (Binary Trees, Binary Search Trees, AVL Trees)
-TODO - Heaps
-TODO - Graphs (Adjacency List, Adjacency Matrix)
+- TODO Linked Lists (Singly, Doubly)
+- TODO Stacks
+- TODO Queues
+- TODO Trees (Binary Trees, Binary Search Trees, AVL Trees)
+- TODO Heaps
+- TODO Graphs (Adjacency List, Adjacency Matrix)
 
 ## Implemented Algorithms
 - Two Pointers
-TODO - Hash
+- TODO Hash
 
 ### Searching Algorithms
-TODO - Linear Search
-TODO - Binary Search
+- TODO Linear Search
+- TODO Binary Search
 
 ### Sorting Algorithms
-TODO - Bubble Sort
-TODO - Insertion Sort
-TODO - Selection Sort
-TODO - Merge Sort
-TODO - Quick Sort
-TODO - Heap Sort
+- TODO Bubble Sort
+- TODO Insertion Sort
+- TODO Selection Sort
+- TODO Merge Sort
+- TODO Quick Sort
+- TODO Heap Sort
 
 ### Other Algorithms
-TODO - Depth-First Search (DFS)
-TODO - Breadth-First Search (BFS)
-TODO - Dijkstra's Algorithm (Shortest Path)
-TODO - Dynamic Programming (Knapsack, Fibonacci, etc.)
-TODO - Greedy Algorithms (Activity Selection, Huffman Encoding)
+- TODO Depth-First Search (DFS)
+- TODO Breadth-First Search (BFS)
+- TODO Dijkstra's Algorithm (Shortest Path)
+- TODO Dynamic Programming (Knapsack, Fibonacci, etc.)
+- TODO Greedy Algorithms (Activity Selection, Huffman Encoding)
 
 ## License
 
