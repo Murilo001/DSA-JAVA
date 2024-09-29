@@ -41,6 +41,7 @@ dsa-java/
 ## Implemented Data Structures
 
 - Arrays
+- HashTables
 - TODO Linked Lists (Singly, Doubly)
 - TODO Stacks
 - TODO Queues
